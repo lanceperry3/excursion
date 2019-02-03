@@ -1,7 +1,7 @@
 
 
 body {
-
+  background-color: black;
   color: white;
   text-align: center;
   background: black;
@@ -16,4 +16,9 @@ h1 {
 .hl {
   color: Aquamarine;
   font-size: 16px;
+}
+p {
+  font-size: 21px;
+  font-family: verdana;
+  color: Gray;
 }
