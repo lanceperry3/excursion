@@ -1,0 +1,19 @@
+
+
+body {
+
+  color: white;
+  text-align: center;
+  background: black;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+  font-family: verdana;
+}
+
+.hl {
+  color: Aquamarine;
+  font-size: 16px;
+}
